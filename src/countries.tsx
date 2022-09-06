@@ -14,7 +14,7 @@ export default function Countries(){
 },[])
     return(
         <div style={{backgroundColor:'black'}}>
-          <h1 className="mt-5 ms-5" style={{color:'white', position:'absolute'}}>all of the worlds Countries</h1>
+          <h1 className="mt-5 ms-5" style={{color:'white', position:'absolute'}}>all of the Worlds Countries</h1>
            <Image alt="earth" fluid src="https://cdn.mos.cms.futurecdn.net/xcLR5HMU2kxskdAy3ZVuTf.jpg"/>
            <Search/>
            <br/>
