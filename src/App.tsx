@@ -10,12 +10,12 @@ function App() {
     <div>
    <Navbar bg='dark' expand='lg' variant='dark'>
     <Container>
-      <Navbar.Brand href='/places'>Jamar Bevel Places</Navbar.Brand>
+      <Navbar.Brand href='/places'>Jamar Bevel Countries</Navbar.Brand>
       <Navbar.Toggle aria-controls='basic-navbar-nav'/>
       <Navbar.Collapse id='basic-navbar-nav'>
         <Nav className='me-auto'>
           <Nav.Item>
-          <Nav.Link href='/places'>places</Nav.Link>
+          <Nav.Link href='/countries'>countries</Nav.Link>
           </Nav.Item>
           <Nav.Item>
           <Nav.Link href='/contact'>contact</Nav.Link>
